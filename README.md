@@ -1,1 +1,2 @@
-# hexlet-my-first-workflow
+A repository for a studing project: 
+# "hexlet-my-first-workflow"
